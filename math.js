@@ -13,5 +13,8 @@ function puissance3(z){
     return z ** 3;
 }
 
+function hello(){
+    return true
+}
 
 module.exports = {division, addition, puissance3}
