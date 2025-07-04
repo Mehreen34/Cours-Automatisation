@@ -9,4 +9,9 @@ function division(x,y){
 return x/y
 }
 
-module.exports = {division, addition}
+function puissance3(z){
+    return z ** 3;
+}
+
+
+module.exports = {division, addition, puissance3}
