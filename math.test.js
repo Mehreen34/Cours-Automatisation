@@ -10,5 +10,5 @@ test('de la fonction addition',()=>{
 })
 
 test('de la puissance 3' , ()=> {
-    expect(puissance3(2)).toBe(6)
+    expect(puissance3(2)).toBe(8)
 })
