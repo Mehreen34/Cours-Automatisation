@@ -16,5 +16,11 @@ function puissance3(z){
 function hello(){
     return true
 }
+function soustraction(a, b) {
+    return a - b;
+    
+}
 
-module.exports = {division, addition, puissance3}
+
+
+module.exports = {division, addition, puissance3, soustraction}
