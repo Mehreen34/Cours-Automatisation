@@ -6,5 +6,5 @@ test('de la fonction division',()=>{
 
 
 test('de la fonction addition'),()=>{
-    expect(addition(5,2).toBe(7))
+    expect(addition(5,2)).toBe(7)
 }
