@@ -1,7 +1,7 @@
 const{division, addition}=require('./math');
 
 test('de la fonction division',()=>{
-    expect(division(4,2).toBe(2))
+    expect(division(4,2)).toBe(2)
 })
 
 
