@@ -1,10 +1,10 @@
 const{division, addition}=require('./math');
 
-test("de la fonction division",()=>{
+test('de la fonction division',()=>{
     expect(division(4,2).toBe(2))
 })
 
 
-test("de la fonction addition"),()=>{
+test('de la fonction addition'),()=>{
     expect(addition(5,2).toBe(7))
 }
